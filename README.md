@@ -1,1 +1,1 @@
-# DB Manager\n\nDatabase manager: pooled connections, routing, quota enforcement, telemetry\n
+# db-manager\n\nShort description and quick start\n
