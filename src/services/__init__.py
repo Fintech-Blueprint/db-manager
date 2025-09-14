@@ -1,0 +1,1 @@
+class MigrationService:\n    pass\n
