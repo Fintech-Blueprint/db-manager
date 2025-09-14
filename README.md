@@ -1,1 +1,1 @@
-# db-manager\n\nDatabase Manager: connection pooling, quotas, migrations, telemetry.\n
+# DB Manager\n\nDatabase manager: pooled connections, routing, quota enforcement, telemetry\n
