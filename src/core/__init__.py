@@ -1,0 +1,1 @@
+class ConciergeManager:\n    pass\n
