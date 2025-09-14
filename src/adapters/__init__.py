@@ -1,1 +1,1 @@
-class MongoAdapter:\n    pass\n\nclass SQLAdapter:\n    pass\n
+class Adapter:\n    pass\n
